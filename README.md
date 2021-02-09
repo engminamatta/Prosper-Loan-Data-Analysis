@@ -1,5 +1,5 @@
 # Prosper Loans data analysis
-to download CSV file, Please click the follwoing link:
+Dataset can be downloaded from the following link:
 https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
 
 ## Dataset
