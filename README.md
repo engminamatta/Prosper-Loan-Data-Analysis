@@ -2,13 +2,13 @@
 to download CSV file, Please click the follwoing link:
 https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
 
-#Dataset
+## Dataset
 
 >This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 
 - A number of characteristics about Prosper loans in each raw:
 >-    LoanStatus:	The current status of the loan: Cancelled,  Chargedoff, Completed, Current, Defaulted,
--        FinalPaymentInProgress, PastDue. The PastDue status will be accompanied by a delinquency bucket. 
+>-        FinalPaymentInProgress, PastDue. The PastDue status will be accompanied by a delinquency bucket. 
 -    BorrowerAPR:	The Borrower's Annual Percentage Rate (APR) for the loan.
 -    BorrowerRate:	The Borrower's interest rate for this loan. 
 -    LenderYield:	The Lender yield on the loan. Lender yield is equal to the interest rate on the loan less the servicing fee.
@@ -31,14 +31,14 @@ https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
    What factors are important for us to predict if a loan will be completed or defaulted?
 
 
-# Key Insights for Presentation:
+## Key Insights for Presentation:
 
 > In this analysis I used some features to show their effect on Loan completion.
 so I made analysis of every feature of the previous mentioned featrures against (Loan status)
 I used mainly boxplots, violin plots histograms  and countplots. 
 I used these plots beacause I was investigating the loan status which is categorical against many nnumerical quantitive variables.
 
-# Summary of Findings
+## Summary of Findings
 
 - What factors are important for us to predict if loan will be completed or not?.
 Results:
