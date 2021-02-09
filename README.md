@@ -8,7 +8,7 @@ https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv
 
 - A number of characteristics about Prosper loans in each raw:
 >-    LoanStatus:	The current status of the loan: Cancelled,  Chargedoff, Completed, Current, Defaulted,
->-        FinalPaymentInProgress, PastDue. The PastDue status will be accompanied by a delinquency bucket. 
+        FinalPaymentInProgress, PastDue. The PastDue status will be accompanied by a delinquency bucket. 
 >-    BorrowerAPR:	The Borrower's Annual Percentage Rate (APR) for the loan.
 >-    BorrowerRate:	The Borrower's interest rate for this loan. 
 >-    LenderYield:	The Lender yield on the loan. Lender yield is equal to the interest rate on the loan less the servicing fee.
